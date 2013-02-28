@@ -11,9 +11,13 @@
 
 
 
-#### View/Hide all files ####
+#### Commands ####
 
-show:
+show hidden files:
 <pre>defaults write com.apple.finder AppleShowAllFiles -bool true</pre>
-hide:
+hide hidden files:
 <pre>defaults write com.apple.finder AppleShowAllFiles -bool false</pre>
+Turn off sleep:
+<pre>sudo pmset sleep 0</pre>
+Prevent idle sleep:
+<pre>pmset noidle</pre>
