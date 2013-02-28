@@ -1,0 +1,1 @@
+tell application "Finder"	if folder "Applications" of startup disk exists then		display dialog (count files in folder "Applications" of startup disk)	else		display dialog 0	end ifend tell\
