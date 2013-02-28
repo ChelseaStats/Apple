@@ -1,0 +1,59 @@
+osx
+
+#!/bin/bash
+
+# ~/.osx
+
+# Ask for the administrator password upfront
+sudo -v
+
+# Keep-alive: update existing `sudo` time stamp until `.osx` has finished
+while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
+
+###############################################################################
+# General UI/UX                                                               #
+###############################################################################
+
+
+###############################################################################
+# Mail                                                                        #
+###############################################################################
+
+# Copy email addresses as `foo@example.com` instead of `Foo Bar <foo@example.com>` in Mail.app
+defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
+
+###############################################################################
+# Safari & WebKit                                                             #
+###############################################################################
+
+# Set Safari’s home page to `TheCellarRoom` for faster loading
+defaults write com.apple.Safari HomePage -string "http://www.thecellarroom.net"
+
+###############################################################################
+# Dock & hot corners                                                          #
+###############################################################################
+# Set the icon size of Dock items to 24 pixels
+defaults write com.apple.dock tilesize -int 24
+
+###############################################################################
+# Finder                                                                      #
+###############################################################################
+
+# Show icons for hard drives, servers, and removable media on the desktop
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false
+defaults write com.apple.finder ShowHardDrivesOnDesktop -bool false
+defaults write com.apple.finder ShowMountedServersOnDesktop -bool false
+defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool false
+
+###############################################################################
+# Screen                                                                      #
+###############################################################################
+
+# Save screenshots to the desktop
+defaults write com.apple.screencapture location -string "$HOME/Desktop"
+
+# Save screenshots in PNG format (other options: BMP, GIF, JPG, PDF, TIFF)
+defaults write com.apple.screencapture type -string "png"
+
+# Disable shadow in screenshots
+defaults write com.apple.screencapture disable-shadow -bool true
