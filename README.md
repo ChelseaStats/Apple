@@ -21,3 +21,13 @@ Turn off sleep:
 <pre>sudo pmset sleep 0</pre>
 Prevent idle sleep:
 <pre>pmset noidle</pre>
+Quick access in iTunes.
+<pre>
+Cmd + 1 = Music
+Cmd + 2 = Movies
+Cmd + 3 = TV Shows
+Cmd + 4 = Podcasts
+Cmd + 5 = iTunes U
+Cmd + 6 = Books
+Cmd + 7 = Apps
+</pre>
