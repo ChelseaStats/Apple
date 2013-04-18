@@ -49,3 +49,32 @@ Recommended Apps:
 14. Cyberduck
 </pre>
 
+On OS X to start/stop MySQL from the command line:
+<pre>
+sudo /usr/local/mysql/support-files/mysql.server start
+</pre>
+
+<pre>
+sudo /usr/local/mysql/support-files/mysql.server stop
+</pre>
+
+
+####Apache
+to start it
+<pre>
+sudo apachectl start
+</pre>
+to stop it
+<pre>
+sudo apachectl stop
+</pre>
+to restart it
+<pre>
+sudo apachectl restart
+</pre>
+To find the Apache version
+<pre>
+httpd -v
+</pre>
+The version installed in Mountain Lion is Apache/2.2.22
+
