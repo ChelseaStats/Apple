@@ -78,3 +78,9 @@ httpd -v
 </pre>
 The version installed in Mountain Lion is Apache/2.2.22
 
+####Clear list of open with apps when duped.
+1. paste this into terminal
+2. relaunch finder
+<pre>
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -kill -r -domain local -domain system -domain user  
+</pre>
