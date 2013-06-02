@@ -33,20 +33,20 @@ Cmd + 7 = Apps
 </pre>
 Recommended Apps:
 <pre>
-1. Brackets
-2. Pocket
-3. IA Writer
-4. Tweetbot
-5. Chrome
-6. MAMP
-7. Mysql Workbench
-8. Github for Mac
-9. MassReplaceit
-10. Image Optim
-11. Sparrow
-12. TypeIt4Me
-13. Pixelmator
-14. Cyberduck
+01. Brackets
+02. Pocket
+03. IA Writer
+04. Tweetbot
+05. Chrome
+06. Mysql Workbench
+07. Github for Mac
+08. MassReplaceit
+09. Image Optim
+10. Sparrow
+11. TypeIt4Me
+12. Pixelmator
+13. Cyberduck
+14. Dropbox
 </pre>
 
 On OS X to start/stop MySQL from the command line:
