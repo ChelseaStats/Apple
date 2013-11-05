@@ -78,6 +78,27 @@ httpd -v
 </pre>
 The version installed in Mountain Lion is Apache/2.2.22
 
+##### To Setup localhost pointing to a folder (e.g. github)
+<pre>cd /etc/apache2/users</pre>
+<pre>sudo nano username.conf</pre>
+<pre><Directory "/Users/username/Github/">
+Options Indexes MultiViews
+AllowOverride All
+Order allow,deny
+Allow from all
+</Directory>
+</pre>
+<pre>sudo chmod 644 username.conf</pre>
+<pre>sudo apachectl restart</pre>
+<pre>sudo nano /etc/apache2/httpd.conf</pre>
+1. page down twice
+2. in the file there are two spots where it asks for document root, 
+3. copy `/Users/username/Github/` here
+4. exit
+5. confirm save with Y
+6. return
+<pre>sudo apachectl restart</pre>
+
 ####Clear list of open with apps when duped.
 1. paste this into terminal
 2. relaunch finder
