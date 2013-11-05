@@ -97,6 +97,7 @@ Allow from all
 4. exit
 5. confirm save with Y
 6. return
+
 <pre>sudo apachectl restart</pre>
 
 ####Clear list of open with apps when duped.
