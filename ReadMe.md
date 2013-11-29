@@ -1,9 +1,9 @@
-#### AppleScripts & Mac related Goodies##
+####AppleScripts & Mac related Goodies
 
 + Osx.txt is a terminal script for setting some useful defaults on a new mac
 
 
-###### To Do:
+######To Do:
 + Add a list of apps
 + Add (create) some applescripts
 + Workflows
@@ -11,7 +11,7 @@
 
 
 
-####### Commands
+######Commands
 
 show hidden files:
 <pre>defaults write com.apple.finder AppleShowAllFiles -bool true</pre>
@@ -79,7 +79,7 @@ httpd -v
 </pre>
 The version installed in Mountain Lion is Apache/2.2.22
 
-####### To Setup localhost pointing to a folder (e.g. github)
+######To Setup localhost pointing to a folder (e.g. github)
 <pre>cd /etc/apache2/users</pre>
 <pre>sudo nano username.conf</pre>
 <pre><Directory "/Users/username/Github/">
