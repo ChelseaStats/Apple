@@ -32,5 +32,6 @@ Some applications that are must-haves on any new mac setup.
       24. SiteSucker
       25. SCToolbarButton
       26. Narrator *
+      27. AutoResize
             
 *paid for
