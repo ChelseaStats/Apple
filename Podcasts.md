@@ -18,10 +18,8 @@
     06. Women's football Podcast
     07. Statsbomb
     08. The Offisde Rule
-    09. Sunday Supplement - SkySports
-    10. The Footballers Football Show - SkySports
-    11. The Football Podcast - SkySports
-    12. The EPL roundtable (eplindex)
+    09. The Football Podcast - SkySports
+    10. The EPL roundtable (eplindex)
 
 #### Design
 
