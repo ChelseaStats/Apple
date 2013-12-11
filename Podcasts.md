@@ -27,25 +27,22 @@
 
     01. Shop Talk Show
     02. CSS-tricks Screencasts
+    05. PageBreak Podcast    
     03. The Boagworld Web Design Show
     04. Fast Web Design Advice on the Go (Boagworld)
-    05. PageBreak Podcast
+    05. The Big Web Show   
     06. Happy Monday
-    07. The Big Web Show
-    08. The Web Ahead
-    09. The East Wing
-    10. Unfinished Business
-    11. Upfront Podcast
-    12. Breaking Development Podcast
-    13. Click
-    14. Data Stories
-    15. Beyond Ink
+    07. The East Wing  
+    08. Matt Report
+    09. Unfinished Business
+    10. Beyond Ink
 
 #### Other
 
-    1. Advanced NFL Stats
-    2. The CultCast
-    3. Systematic
-    4. The Talk Show with John Gruber
+    01. Advanced NFL Stats
+    02. The CultCast
+    03. Systematic
+    04. The Talk Show with John Gruber
+    05. Mac Power Users
     
 
