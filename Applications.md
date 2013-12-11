@@ -14,23 +14,24 @@ Some applications that are must-haves on any new mac setup.
       08. Github for Mac
       09. Sparrow
       10. Dropbox
-      
-###### more
-
-      01. Netbeans
-      02. Office *
+      11. Office *
             1. Outlook
             2. Excel
             3. Word
-            4. Powerpoint
-      03. VLC media player
-      04. Kindle
-      05. Handbrake
-      06. Firefox      
-      07. Opera
-      08. Cyberduck      
-      09. Narrator *
-      10. TypeIt4Me *
+            4. Powerpoint      
+      12. Netbeans
+      
+###### more (low usage, becoming surplass)
+
+      01. VLC media player
+      02. Handbrake
+      03. Firefox      
+      04. Opera
+      05. Narrator *
+      06. TypeIt4Me *
+      07. Cyberduck
+      08. Kindle 
+
       
 ###### Micro Apps
 
@@ -42,5 +43,5 @@ Some applications that are must-haves on any new mac setup.
       06. Image Optim
       07. SiteSucker
       08. Unarchiver
-      
+
 *paid for
