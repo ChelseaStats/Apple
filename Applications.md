@@ -2,36 +2,45 @@
 
 Some applications that are must-haves on any new mac setup.
 
-      01. Brackets
-      02. Pocket
-      03. IA Writer *
-      04. Tweetbot *
-      05. Chrome
-      06. Mysql Workbench
-      07. Github for Mac
-      08. MassReplaceit
-      09. Image Optim
-      10. Sparrow
-      11. TypeIt4Me *
-      12. Pixelmator *
-      13. Cyberduck
-      14. Dropbox
-      15. Firefox
-      16. Caffeine
-      17. Netbeans
-      18. Office *
+###### core
+
+      01. IA Writer *
+      02. Tweetbot *
+      03. Pixelmator *
+      04. Brackets
+      05. Pocket
+      06. Chrome
+      07. Mysql Workbench
+      08. Github for Mac
+      09. Sparrow
+      10. Dropbox
+      
+###### more
+
+      01. Netbeans
+      02. Office *
             1. Outlook
             2. Excel
             3. Word
             4. Powerpoint
-      19. VLC media player
-      20. Unarchiver
-      21. Kindle
-      22. Handbrake
-      23. Opera
-      24. SiteSucker
-      25. SCToolbarButton
-      26. Narrator *
-      27. AutoResize
-            
+      03. VLC media player
+      04. Kindle
+      05. Handbrake
+      06. Firefox      
+      07. Opera
+      08. Cyberduck      
+      09. Narrator *
+      10. TypeIt4Me *
+      
+###### Micro Apps
+
+      01. SCToolbarButton     
+      02. AutoResize
+      03. GifRocket
+      04. Caffeine
+      05. MassReplaceit
+      06. Image Optim
+      07. SiteSucker
+      08. Unarchiver
+      
 *paid for
