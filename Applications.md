@@ -21,7 +21,7 @@ Some applications that are must-haves on any new mac setup.
             4. Powerpoint      
       12. Netbeans
       
-###### more (low usage, becoming surplass)
+###### more (low usage, becoming surplus)
 
       01. VLC media player
       02. Handbrake
