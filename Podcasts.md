@@ -18,8 +18,7 @@
     06. Women's football Podcast
     07. Statsbomb
     08. The Offisde Rule
-    09. The Football Podcast - SkySports
-    10. The EPL roundtable (eplindex)
+    09. The EPL roundtable (eplindex)
 
 #### Design
 
@@ -31,9 +30,8 @@
     05. The Big Web Show   
     06. Happy Monday
     07. The East Wing  
-    08. Matt Report
-    09. Unfinished Business
-    10. Beyond Ink
+    08. Unfinished Business
+    09. Beyond Ink
 
 #### Other
 
@@ -41,6 +39,6 @@
     02. The CultCast
     03. Systematic
     04. The Talk Show with John Gruber
-    05. Mac Power Users
+
     
 
