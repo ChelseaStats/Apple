@@ -14,46 +14,44 @@ Some applications that are must-haves on any new mac setup.
       09. Castro
       10. Feedly
       11. Roambi
-###### SM
+###### SM + Tools
       01. Audioboo
       02. Vine
-      03. Facebook
-      04. Tumblr
-      05. Pinterest
-      06. Google+
-      07. WordPress
-      08. Facebook
-      09. Pages (Facebook)
-      10. IFTTT
-###### Folder
-      11. Pingdom
-      12. Bitly
-      13. Firecloud
-      14. Studio
-      15. Barry
-      16. PutPic
-      17. Control Panel
-      18. MySQL
-      19. SixToEight
+      03. Tumblr
+      04. Pinterest
+      05. Google+
+      06. WordPress
+      07. Facebook
+      08. Pages (Facebook)
+      09. IFTTT
+      10. Pingdom
+      11. Bitly
+      12. Firecloud
+      13. Studio
+      14. Barry
+      15. PutPic
+      16. Control Panel
+      17. MySQL
+      18. SixToEight
 ###### Folder   
-      20. Google Maps
-      21. Amount
-      22. Forecast
-      23. Chrome
-      23. Wikipedia
-      24. Dictionary
-      25. Google Drive
-      26. TimeWheel
-      27. Rightmove
-      28. Flights
-      29. Seven
-      30. MyFitnessPal
-      31. Kickstarter
-      32. Languages
-      33. Calculator
-      34. Html5
-      35. PhpRiot
-      36. PHP OO Ref
+      01. Google Maps
+      02. Amount
+      03. Forecast
+      04. Chrome
+      05. Wikipedia
+      06. Dictionary
+      07. Google Drive
+      08. TimeWheel
+      09. Rightmove
+      10. Flights
+      11. Seven
+      12. MyFitnessPal
+      13. Kickstarter
+      14. Languages
+      15. Calculator
+      16. Html5
+      17. PhpRiot
+      18. PHP OO Ref
 ###### Folder      
 
 *paid for
