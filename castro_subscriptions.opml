@@ -4,6 +4,7 @@
 		<title>Castro Subscriptions</title>
 	</head>
 	<body>
+		<outline type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/fivelive/5lfd/rss.xml" />
 		<outline type="rss" xmlUrl="http://advancednflstats.libsyn.com/rss" />
 		<outline type="rss" xmlUrl="http://simplecast.fm/podcasts/5/rss" />
 		<outline type="rss" xmlUrl="http://theblueskitchen.podbean.com/feed/" />
@@ -11,27 +12,36 @@
 		<outline type="rss" xmlUrl="http://podcast.playbackmedia.co.uk/chelsea.xml" />
 		<outline type="rss" xmlUrl="http://feeds.footballfancast.com/ffc-Chelsea" />
 		<outline type="rss" xmlUrl="http://audioboo.fm/users/976824/boos.rss" />
+		<outline type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/worldservice/digitalp/rss.xml" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/CSS-Tricks-Screencasts" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/CSS-Tricks-Screencasts-iPhone" />
 		<outline type="rss" xmlUrl="http://thecultcast.libsyn.com/rss" />
+		<outline type="rss" xmlUrl="http://www.howlingdick.com/feed/podcast/" />
 		<outline type="rss" xmlUrl="http://feeds.5by5.tv/eastwing" />
 		<outline type="rss" xmlUrl="http://eplroundtable.podbean.com/feed/" />
 		<outline type="rss" xmlUrl="http://audioboo.fm/users/195021/boos.rss" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/fastwebdesigntips" />
 		<outline type="rss" xmlUrl="http://footballramble.libsyn.com/rss" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/football/series/footballweekly/podcast.xml" />
 		<outline type="rss" xmlUrl="http://podcasts.skysports.com/podcasts/SkySportsFootballersFootballShow/SkySportsFootballersFootballShow.xml" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/TheGentlyMad" />
 		<outline type="rss" xmlUrl="https://simplecast.fm/podcasts/3/rss" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/IfThereIsHellBelowPodcast" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/imfsp" />
+		<outline type="rss" xmlUrl="http://mattreport.com/feed/podcast/" />
 		<outline type="rss" xmlUrl="http://cliff.libsyn.com/rss" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/TheOffsideRule" />
 		<outline type="rss" xmlUrl="http://audio.pagebreakpodcast.com/pagebreak.xml" />
+		<outline type="rss" xmlUrl="http://grabaperch.com/podcast.rss" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/chelseafcblogpodcasts" />
 		<outline type="rss" xmlUrl="http://shoptalkshow.com/feed/podcast" />
+		<outline type="rss" xmlUrl="http://podcasts.soccermetrics.net/feed/feed.xml" />
 		<outline type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:55896829/sounds.rss" />
 		<outline type="rss" xmlUrl="http://feeds.5by5.tv/systematic" />
 		<outline type="rss" xmlUrl="http://feeds.muleradio.net/thetalkshow" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/UncensoredHistoryOfTheBlues" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/buzzsprout/uJEz" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/Thewfpod" />
+		<outline type="rss" xmlUrl="http://wptavern.com/feed/podcast" />
 	</body>
 </opml>
