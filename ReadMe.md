@@ -90,3 +90,7 @@ Allow from all
 <pre>
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -kill -r -domain local -domain system -domain user  
 </pre>
+
+######Disable in-line attachment previews in Mail.app
+
+    defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
