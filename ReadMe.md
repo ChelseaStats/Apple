@@ -4,7 +4,6 @@
 
 
 ######To Do:
-+ Add a list of apps
 + Add (create) some applescripts
 + Workflows
 + settings / options
