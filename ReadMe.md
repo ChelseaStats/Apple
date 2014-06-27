@@ -93,3 +93,12 @@ Allow from all
 ######Disable in-line attachment previews in Mail.app
 
     defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
+
+
+###### Use a linebreak in Excel on Mac
+
+Sometimes you need a linebreak in an Excel spreadsheet cell, but when you hit return or 
+enter it always jumps you to a new cell. On Windows, you can just hit alt-return 
+(or maybe alt-enter; if one doesn’t work, try the other). On Mac, you’ll need to hit `control-option-return`.
+
+Took me a while to figure this out, and I figured it could be useful for others. Enjoy!
