@@ -35,13 +35,12 @@ Some applications that are must-haves on any new mac setup.
       
 ###### Micro Apps
 
-      01. SCToolbarButton     
-      02. AutoResize
-      03. GifRocket
-      04. Caffeine
-      05. MassReplaceit
-      06. Image Optim
-      07. SiteSucker
-      08. Unarchiver
+      01. AutoResize
+      02. GifRocket
+      03. Caffeine
+      04. MassReplaceit
+      05. Image Optim
+      06. SiteSucker
+      07. Unarchiver
 
 *paid for
