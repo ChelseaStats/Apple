@@ -12,14 +12,13 @@ Some applications that are must-haves on any new mac setup.
       06. Chrome
       07. Mysql Workbench
       08. Github for Mac
-      09. Sparrow
-      10. Dropbox
-      11. Office *
+      09. Dropbox
+      10. Office *
             1. Outlook
             2. Excel
             3. Word
             4. Powerpoint      
-      12. Netbeans
+      11. phpStorm
       
 ###### more (low usage, becoming surplus)
 
