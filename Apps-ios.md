@@ -20,16 +20,15 @@ Some applications that are must-haves on any new mac setup.
       02. Vine
       03. Tumblr
       04. Pinterest
-      05. WordPress
-      06. Facebook
-      07. Redd
-      08. IFTTT
-      09. Pingdom
-      10. Bitly
-      11. Firecloud
-      12. Barry*
-      13. PutPic*
-      14. StackExchange
-      15. Loaf
-      16. Control Panel
-      17. Screeny
+      05. Facebook
+      06. Redd
+      07. IFTTT
+      08. Pingdom
+      09. Bitly
+      10. Firecloud
+      11. Barry*
+      12. PutPic*
+      13. StackExchange
+      14. Loaf
+      15. Control Panel
+      16. Screeny
