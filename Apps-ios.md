@@ -4,21 +4,19 @@ Some applications that are must-haves on any new mac setup.
 
 ###### Key
 
-      01. IA Writer*
-      02. Tweetbot
+      01. Tweetbot
+      02. IA Writer*
       03. Pocket
       04. vesper*
       05. Codehub
       06. Dropbox
       07. Statszone
-      08. Pushover
-      09. Castro*
-      10. Feedly
-      11. Roambi
+      08. Castro*
+      09. Feedly
       
 ###### SM + Tools
 
-      01. Audioboo
+      01. AudioBoom
       02. Vine
       03. Tumblr
       04. Pinterest
@@ -33,3 +31,5 @@ Some applications that are must-haves on any new mac setup.
       13. PutPic*
       14. StackExchange
       15. Loaf
+      16. Control Panel
+      17. Screeny
