@@ -82,6 +82,10 @@ Allow from all
 
 <pre>sudo apachectl restart</pre>
 
+after upgrading to Yosemite there was a problem with httpd.conf
+see http://encore254.blogspot.co.uk/2014/07/apache-issue-after-installing-os-x.html
+for solution
+
 ######Clear list of open with apps when duped.
 1. paste this into terminal
 2. relaunch finder
