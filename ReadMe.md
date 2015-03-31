@@ -94,6 +94,12 @@ for solution
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -kill -r -domain local -domain system -domain user  
 </pre>
 
+###### reset the DNS cache (Yosemite):
+<pre>
+sudo discoveryutil mdnsflushcache
+</pre>
+
+
 ######Disable in-line attachment previews in Mail.app
 
     defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
