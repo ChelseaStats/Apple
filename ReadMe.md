@@ -95,10 +95,9 @@ for solution
 </pre>
 
 ###### reset the DNS cache (Yosemite):
-<pre>
-sudo discoveryutil mdnsflushcache
-</pre>
 
+    sudo discoveryutil mdnsflushcache
+    sudo discoveryutil udnsflushcaches
 
 ######Disable in-line attachment previews in Mail.app
 
