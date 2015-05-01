@@ -110,3 +110,7 @@ for solution
     enter it always jumps you to a new cell. On Windows, you can just hit alt-return 
     (or maybe alt-enter; if one doesn’t work, try the other). On Mac, you’ll need to hit `control-option-return`.
     Took me a while to figure this out, and I figured it could be useful for others. Enjoy!
+
+###### CMD + full screen
+
+    rather than full screen it goes back to the old expand to fill the space option.
